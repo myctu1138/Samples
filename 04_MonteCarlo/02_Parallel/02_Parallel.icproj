@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="02_Parallel"
+	ProjectGUID="{CBED54F1-9BFA-458B-A112-8B9222B6A473}"
+	VCNestedProjectGUID="{845A2A53-BD85-4AB8-825C-AE1F2CEDB5C6}"
+	VCNestedProjectFileName="02_Parallel.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

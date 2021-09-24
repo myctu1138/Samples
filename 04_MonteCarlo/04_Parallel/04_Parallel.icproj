@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="04_Parallel"
+	ProjectGUID="{C260AF74-3186-4888-989D-0AD2E94D11FF}"
+	VCNestedProjectGUID="{2AF9C848-7388-4A06-8B11-5B662706DF5C}"
+	VCNestedProjectFileName="04_Parallel.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

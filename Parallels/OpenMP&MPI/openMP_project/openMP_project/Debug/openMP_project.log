@@ -1,0 +1,6 @@
+﻿  2nd exercise.cpp
+C:\Users\Мустафа Али\source\repos\openMP_project\openMP_project\2nd exercise.cpp(4,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Мустафа Али\source\repos\openMP_project\openMP_project\2nd exercise.cpp(3): warning C4101: 'i': unreferenced local variable
+  openMP_project.cpp
+  Generating Code...
+  openMP_project.vcxproj -> C:\Users\Мустафа Али\source\repos\openMP_project\Debug\openMP_project.exe

@@ -1,0 +1,7 @@
+D:\ООП\Paralel_Programing\Paralel_Programing\bin\Debug\Paralel_Programing.exe.config
+D:\ООП\Paralel_Programing\Paralel_Programing\bin\Debug\Paralel_Programing.exe
+D:\ООП\Paralel_Programing\Paralel_Programing\bin\Debug\Paralel_Programing.pdb
+D:\ООП\Paralel_Programing\Paralel_Programing\obj\Debug\Paralel_Programing.csprojAssemblyReference.cache
+D:\ООП\Paralel_Programing\Paralel_Programing\obj\Debug\Paralel_Programing.csproj.CoreCompileInputs.cache
+D:\ООП\Paralel_Programing\Paralel_Programing\obj\Debug\Paralel_Programing.exe
+D:\ООП\Paralel_Programing\Paralel_Programing\obj\Debug\Paralel_Programing.pdb

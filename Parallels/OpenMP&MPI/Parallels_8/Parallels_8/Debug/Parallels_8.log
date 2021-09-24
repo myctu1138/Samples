@@ -1,0 +1,4 @@
+﻿  Parallels_8.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\мустафа али\source\repos\parallels_8\parallels_8\parallels_8.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Parallels_8.vcxproj -> C:\Users\Мустафа Али\source\repos\Parallels_8\Debug\Parallels_8.exe

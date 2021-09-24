@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="01_Serial"
+	ProjectGUID="{568F488E-6805-412E-BD2D-E65369E297DC}"
+	VCNestedProjectGUID="{BEC0EC86-86FB-42D2-AFD6-C41DB6BED36B}"
+	VCNestedProjectFileName="01_Serial.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				InterproceduralOptimization="0"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

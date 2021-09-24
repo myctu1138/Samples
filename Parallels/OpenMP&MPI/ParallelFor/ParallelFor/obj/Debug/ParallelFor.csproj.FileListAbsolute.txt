@@ -1,0 +1,6 @@
+C:\Users\Мустафа Али\source\repos\ParallelFor\ParallelFor\bin\Debug\ParallelFor.exe.config
+C:\Users\Мустафа Али\source\repos\ParallelFor\ParallelFor\bin\Debug\ParallelFor.exe
+C:\Users\Мустафа Али\source\repos\ParallelFor\ParallelFor\bin\Debug\ParallelFor.pdb
+C:\Users\Мустафа Али\source\repos\ParallelFor\ParallelFor\obj\Debug\ParallelFor.csprojAssemblyReference.cache
+C:\Users\Мустафа Али\source\repos\ParallelFor\ParallelFor\obj\Debug\ParallelFor.exe
+C:\Users\Мустафа Али\source\repos\ParallelFor\ParallelFor\obj\Debug\ParallelFor.pdb

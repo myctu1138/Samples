@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Contour", "01_Contour\01_Contour.vcxproj", "{157FC1D4-FD40-4DC0-8CBA-9053C5A2CC96}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_FaceDetection", "02_FaceDetection\02_FaceDetection.vcxproj", "{CCF6F5C6-CA88-4498-91D8-5C9CDD78ABAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157FC1D4-FD40-4DC0-8CBA-9053C5A2CC96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{157FC1D4-FD40-4DC0-8CBA-9053C5A2CC96}.Debug|Win32.Build.0 = Debug|Win32
+		{157FC1D4-FD40-4DC0-8CBA-9053C5A2CC96}.Release|Win32.ActiveCfg = Release|Win32
+		{157FC1D4-FD40-4DC0-8CBA-9053C5A2CC96}.Release|Win32.Build.0 = Release|Win32
+		{CCF6F5C6-CA88-4498-91D8-5C9CDD78ABAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCF6F5C6-CA88-4498-91D8-5C9CDD78ABAF}.Debug|Win32.Build.0 = Debug|Win32
+		{CCF6F5C6-CA88-4498-91D8-5C9CDD78ABAF}.Release|Win32.ActiveCfg = Release|Win32
+		{CCF6F5C6-CA88-4498-91D8-5C9CDD78ABAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

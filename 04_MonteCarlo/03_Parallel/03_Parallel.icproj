@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="03_Parallel"
+	ProjectGUID="{08F479A4-E105-4230-A0C5-F61DEBC25DFD}"
+	VCNestedProjectGUID="{ADA1C8A7-70A9-4C03-A212-B5CBA70E49F2}"
+	VCNestedProjectFileName="03_Parallel.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				EnableParallelDebugChecks="true"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
